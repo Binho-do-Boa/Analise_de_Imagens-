@@ -7,3 +7,4 @@ Classes: Mancha angular, Ferrugem, Saudável.
 Modelo Usado: Transfer Learning Mobilenet-v2.
 Usei uma API Flask em conjunto com Ngrok, para fazer os testes fazendo upload de uma imagem que pode ser coletada em campo, o modelo processa e da resposta (predict) com percentual de confiança por classe.
 Fiz todos esses testes em campo e usei o GoogleColab para desenvolvimento e processamento. 
+No meu caso com esse bando de dados obtive melhor desempenho  e acurácia com modelo CNN Learning Mobilenet-v2.
